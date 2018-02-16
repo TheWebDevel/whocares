@@ -1,8 +1,8 @@
 {
-  "name": "indecision-app",
+  "name": "whocares",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "sathish",
   "license": "MIT",
   "scripts": {
     "serve": "live-server public/",
